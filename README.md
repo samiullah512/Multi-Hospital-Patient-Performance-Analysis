@@ -37,7 +37,7 @@ The final output is a single, multi-tab Excel workbook containing raw data, clea
 
 ## 📊 Dashboard Preview
 
-![Healthcare Analytics Dashboard]("D:/Healthcare Project/Healthcare Project.png")
+![Healthcare Analytics Dashboard]("Healthcare Project.png")
 
 
 > *Interactive dashboard built in Excel — filter all visuals dynamically using the Gender slicer.*
